@@ -1,18 +1,7 @@
-# 大叔的个人小站
-这里是`大叔的个人小站`，我会不定期在这里更新我的学习心得，以及相关教程。
-
-本小站目前有以下板块：
-
-- [机器学习](https://imuncle.github.io/issue_per_label.html?label=AI)
-- [小项目](https://imuncle.github.io/issue_per_label.html?label=Project)
-- [web技术](https://imuncle.github.io/issue_per_label.html?label=web)
-- [RM比赛](https://imuncle.github.io/issue_per_label.html?label=RM)
-- [ROS开发](https://imuncle.github.io/issue_per_label.html?label=ROS)
-- [工具](https://imuncle.github.io/issue_per_label.html?label=tools)
-- [灵感想法](https://imuncle.github.io/timeline)
-- [其他](https://imuncle.github.io/issue_per_label.html?label=other)
-
-小站网址：[https://imuncle.github.io](https://imuncle.github.io)
+# 鸣谢
+项目所有代码来自 @imuncle ，READEME改了一部分，有不对应的人称请忽略。
+# 啸天犬的个人小站
+这里是`啸天犬的个人小站`，我会不定期在这里更新我的学习心得，以及相关教程。
 
 ## 小站架构
 本站基于GitHub的issue系统搭建，评论功能参考了开源项目[Gitment](https://github.com/imsun/gitment)，借用了该项目的css样式。
